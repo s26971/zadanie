@@ -1,1 +1,1 @@
-python /c/Users/Nikodem/zadanie/src/main.py
+python https://github.com/s26971/zadanie/tree/main/src
